@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fbL9oZNr1E21bsSNhh7j+KNUF9B+58RgKkYKNfBJTZA=",
+  "Hash": "xhLVLZCVjkhziHziNMO0qNhMCZAiL9zk0Iz37XyKkFA=",
   "Source": "server-side",
   "BasePath": "_content/server-side",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "server-side\\wwwroot",
       "Source": "server-side",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_13_638892646659670134.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_13_638892646659670134.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_13_638892646659670134#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_13_638892646659670134.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_14_638892646694637108.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_14_638892646694637108.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_14_638892646694637108#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_14_638892646694637108.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_15_638892646842535931.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_15_638892646842535931.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_15_638892646842535931#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_15_638892646842535931.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_16_638892646916520970.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_16_638892646916520970.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_16_638892646916520970#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_16_638892646916520970.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_17_638892648447859377.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_17_638892648447859377.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_17_638892648447859377#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_17_638892648447859377.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_18_638892709134522462.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_18_638892709134522462.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_18_638892709134522462#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_18_638892709134522462.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_19_638892709559281108.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_19_638892709559281108.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_19_638892709559281108#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_19_638892709559281108.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_20_638892710217423942.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_20_638892710217423942.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_20_638892710217423942#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_20_638892710217423942.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_21_638892710423234930.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_21_638892710423234930.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_21_638892710423234930#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_21_638892710423234930.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_22_638892713704358838.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_22_638892713704358838.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_22_638892713704358838#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_22_638892713704358838.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_23_638892714809836785.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_23_638892714809836785.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_23_638892714809836785#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_23_638892714809836785.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_25_638892841883245728.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_25_638892841883245728.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_25_638892841883245728#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_25_638892841883245728.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_26_638892842930707498.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_26_638892842930707498.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_26_638892842930707498#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_26_638892842930707498.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_27_638892868455159487.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_27_638892868455159487.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_27_638892868455159487#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_27_638892868455159487.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_29_638892923896028081.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_29_638892923896028081.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_29_638892923896028081#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_29_638892923896028081.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_30_638892923994635403.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_30_638892923994635403.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_30_638892923994635403#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_30_638892923994635403.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_31_638892947652351143.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_31_638892947652351143.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_31_638892947652351143#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -374,31 +374,10 @@
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_31_638892947652351143.png"
     },
     {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_32_638892953948940645.png",
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_33_638892961928366030.png",
       "SourceId": "server-side",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
-      "BasePath": "_content/server-side",
-      "RelativePath": "drawings/drawing_32_638892953948940645#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "5cbcswabf2",
-      "Integrity": "m7/6zoPnDLLr64Co6AGyxOolEQcnlUXgFYJ45pToogU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\drawings\\drawing_32_638892953948940645.png"
-    },
-    {
-      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_33_638892961928366030.png",
-      "SourceId": "server-side",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
       "BasePath": "_content/server-side",
       "RelativePath": "drawings/drawing_33_638892961928366030#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -414,12 +393,54 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\drawings\\drawing_33_638892961928366030.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_34_638893093158685453.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_34_638893093158685453#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9p2ohvcdnn",
+      "Integrity": "U0+wv+60NleqHx96CBNVYFCLbuMAnQWr9GVGbxFnUnA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_34_638893093158685453.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_35_638893093611659846.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_35_638893093611659846#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3bm0v63n15",
+      "Integrity": "EUibFEhLshCMWtu+EmfT7m2jaAEErMfM23BRXkWeC8Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_35_638893093611659846.png"
     }
   ],
   "Endpoints": [
     {
       "Route": "drawings/drawing_13_638892646659670134.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_13_638892646659670134.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_13_638892646659670134.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -456,7 +477,7 @@
     },
     {
       "Route": "drawings/drawing_13_638892646659670134.ta5tp1iyz7.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_13_638892646659670134.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_13_638892646659670134.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -501,7 +522,7 @@
     },
     {
       "Route": "drawings/drawing_14_638892646694637108.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_14_638892646694637108.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_14_638892646694637108.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -538,7 +559,7 @@
     },
     {
       "Route": "drawings/drawing_14_638892646694637108.ta5tp1iyz7.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_14_638892646694637108.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_14_638892646694637108.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -583,7 +604,7 @@
     },
     {
       "Route": "drawings/drawing_15_638892646842535931.8cdkl7o6yd.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_15_638892646842535931.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_15_638892646842535931.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -628,7 +649,7 @@
     },
     {
       "Route": "drawings/drawing_15_638892646842535931.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_15_638892646842535931.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_15_638892646842535931.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -665,7 +686,7 @@
     },
     {
       "Route": "drawings/drawing_16_638892646916520970.8cdkl7o6yd.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_16_638892646916520970.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_16_638892646916520970.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -710,7 +731,7 @@
     },
     {
       "Route": "drawings/drawing_16_638892646916520970.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_16_638892646916520970.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_16_638892646916520970.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -747,7 +768,7 @@
     },
     {
       "Route": "drawings/drawing_17_638892648447859377.lnxoytih00.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_17_638892648447859377.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_17_638892648447859377.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -792,7 +813,7 @@
     },
     {
       "Route": "drawings/drawing_17_638892648447859377.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_17_638892648447859377.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_17_638892648447859377.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -829,7 +850,7 @@
     },
     {
       "Route": "drawings/drawing_18_638892709134522462.7fkh3yrqsr.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_18_638892709134522462.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_18_638892709134522462.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -874,7 +895,7 @@
     },
     {
       "Route": "drawings/drawing_18_638892709134522462.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_18_638892709134522462.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_18_638892709134522462.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -911,7 +932,7 @@
     },
     {
       "Route": "drawings/drawing_19_638892709559281108.c7g2l947uy.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_19_638892709559281108.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_19_638892709559281108.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -956,7 +977,7 @@
     },
     {
       "Route": "drawings/drawing_19_638892709559281108.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_19_638892709559281108.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_19_638892709559281108.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -993,7 +1014,7 @@
     },
     {
       "Route": "drawings/drawing_20_638892710217423942.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_20_638892710217423942.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_20_638892710217423942.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1030,7 +1051,7 @@
     },
     {
       "Route": "drawings/drawing_20_638892710217423942.xomezhfjmc.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_20_638892710217423942.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_20_638892710217423942.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1075,7 +1096,7 @@
     },
     {
       "Route": "drawings/drawing_21_638892710423234930.69ir3cjoqo.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_21_638892710423234930.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_21_638892710423234930.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1120,7 +1141,7 @@
     },
     {
       "Route": "drawings/drawing_21_638892710423234930.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_21_638892710423234930.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_21_638892710423234930.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1157,7 +1178,7 @@
     },
     {
       "Route": "drawings/drawing_22_638892713704358838.29bowum24a.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_22_638892713704358838.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_22_638892713704358838.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1202,7 +1223,7 @@
     },
     {
       "Route": "drawings/drawing_22_638892713704358838.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_22_638892713704358838.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_22_638892713704358838.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1239,7 +1260,7 @@
     },
     {
       "Route": "drawings/drawing_23_638892714809836785.0nkcsey1b4.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_23_638892714809836785.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_23_638892714809836785.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1284,7 +1305,7 @@
     },
     {
       "Route": "drawings/drawing_23_638892714809836785.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_23_638892714809836785.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_23_638892714809836785.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1321,7 +1342,7 @@
     },
     {
       "Route": "drawings/drawing_25_638892841883245728.ixdngi4wab.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_25_638892841883245728.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_25_638892841883245728.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1366,7 +1387,7 @@
     },
     {
       "Route": "drawings/drawing_25_638892841883245728.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_25_638892841883245728.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_25_638892841883245728.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1403,7 +1424,7 @@
     },
     {
       "Route": "drawings/drawing_26_638892842930707498.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_26_638892842930707498.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_26_638892842930707498.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1440,7 +1461,7 @@
     },
     {
       "Route": "drawings/drawing_26_638892842930707498.z75dgjv4b1.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_26_638892842930707498.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_26_638892842930707498.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1485,7 +1506,7 @@
     },
     {
       "Route": "drawings/drawing_27_638892868455159487.l84ydd6xhs.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_27_638892868455159487.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_27_638892868455159487.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1530,7 +1551,7 @@
     },
     {
       "Route": "drawings/drawing_27_638892868455159487.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_27_638892868455159487.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_27_638892868455159487.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1567,7 +1588,7 @@
     },
     {
       "Route": "drawings/drawing_29_638892923896028081.o9pu6utpnd.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_29_638892923896028081.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_29_638892923896028081.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1612,7 +1633,7 @@
     },
     {
       "Route": "drawings/drawing_29_638892923896028081.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_29_638892923896028081.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_29_638892923896028081.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1649,7 +1670,7 @@
     },
     {
       "Route": "drawings/drawing_30_638892923994635403.o9pu6utpnd.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_30_638892923994635403.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_30_638892923994635403.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1694,7 +1715,7 @@
     },
     {
       "Route": "drawings/drawing_30_638892923994635403.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_30_638892923994635403.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_30_638892923994635403.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1731,7 +1752,7 @@
     },
     {
       "Route": "drawings/drawing_31_638892947652351143.n5640udlcr.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_31_638892947652351143.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_31_638892947652351143.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1776,7 +1797,7 @@
     },
     {
       "Route": "drawings/drawing_31_638892947652351143.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_31_638892947652351143.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_31_638892947652351143.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1812,90 +1833,8 @@
       ]
     },
     {
-      "Route": "drawings/drawing_32_638892953948940645.5cbcswabf2.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_32_638892953948940645.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4035"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"m7/6zoPnDLLr64Co6AGyxOolEQcnlUXgFYJ45pToogU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 28 Jul 2025 10:29:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5cbcswabf2"
-        },
-        {
-          "Name": "label",
-          "Value": "drawings/drawing_32_638892953948940645.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-m7/6zoPnDLLr64Co6AGyxOolEQcnlUXgFYJ45pToogU="
-        }
-      ]
-    },
-    {
-      "Route": "drawings/drawing_32_638892953948940645.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_32_638892953948940645.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4035"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"m7/6zoPnDLLr64Co6AGyxOolEQcnlUXgFYJ45pToogU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 28 Jul 2025 10:29:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-m7/6zoPnDLLr64Co6AGyxOolEQcnlUXgFYJ45pToogU="
-        }
-      ]
-    },
-    {
       "Route": "drawings/drawing_33_638892961928366030.4dh1e986yh.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_33_638892961928366030.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_33_638892961928366030.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1940,7 +1879,7 @@
     },
     {
       "Route": "drawings/drawing_33_638892961928366030.png",
-      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_33_638892961928366030.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_33_638892961928366030.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1972,6 +1911,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-2F+kyUN2UsKWqUWwSajZlO51q0KEvLpWU6RJbc0+gP0="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_34_638893093158685453.9p2ohvcdnn.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_34_638893093158685453.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U0+wv+60NleqHx96CBNVYFCLbuMAnQWr9GVGbxFnUnA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 14:21:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9p2ohvcdnn"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_34_638893093158685453.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U0+wv+60NleqHx96CBNVYFCLbuMAnQWr9GVGbxFnUnA="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_34_638893093158685453.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_34_638893093158685453.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U0+wv+60NleqHx96CBNVYFCLbuMAnQWr9GVGbxFnUnA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 14:21:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U0+wv+60NleqHx96CBNVYFCLbuMAnQWr9GVGbxFnUnA="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_35_638893093611659846.3bm0v63n15.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_35_638893093611659846.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EUibFEhLshCMWtu+EmfT7m2jaAEErMfM23BRXkWeC8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 14:22:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3bm0v63n15"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_35_638893093611659846.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EUibFEhLshCMWtu+EmfT7m2jaAEErMfM23BRXkWeC8Q="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_35_638893093611659846.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\wwwroot\\drawings\\drawing_35_638893093611659846.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EUibFEhLshCMWtu+EmfT7m2jaAEErMfM23BRXkWeC8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 14:22:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EUibFEhLshCMWtu+EmfT7m2jaAEErMfM23BRXkWeC8Q="
         }
       ]
     }

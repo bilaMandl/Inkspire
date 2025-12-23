@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rj7ZnErM8Lw=",
+  "dgSpecHash": "3NRIGiK4sSE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\server-side.csproj",
+  "projectFilePath": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\server-side.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ME\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\ME\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

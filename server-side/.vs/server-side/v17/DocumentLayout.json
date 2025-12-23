@@ -1,70 +1,106 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\",
+  "WorkspaceRootPath": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\project\\server-side\\server-side\\controllers\\drawingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\controllers\\drawingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\project\\server-side\\server-side\\controllers\\challengescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\controllers\\challengescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\project\\server-side\\server-side\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\project\\server-side\\server-side\\models\\dtos\\drawingcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\dtos\\drawingcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\project\\server-side\\server-side\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\project\\server-side\\server-side\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\project\\server-side\\server-side\\controllers\\shapecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\controllers\\shapecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\controllers\\shapecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\project\\server-side\\server-side\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\controllers\\drawingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\controllers\\drawingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\project\\server-side\\server-side\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\controllers\\challengescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\controllers\\challengescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\project\\server-side\\server-side\\models\\dtos\\updatechallengedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\dtos\\updatechallengedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\project\\server-side\\server-side\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\migrations\\20250727012230_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\migrations\\20250727012230_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\project\\server-side\\server-side\\models\\dtos\\drawingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\dtos\\drawingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\project\\server-side\\server-side\\models\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\project\\server-side\\server-side\\models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\project\\server-side\\server-side\\models\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\models\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\project\\server-side\\server-side\\models\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\models\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\models\\dtos\\topicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\dtos\\topicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\models\\dtos\\topiccreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\dtos\\topiccreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\models\\dtos\\shapedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\dtos\\shapedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\models\\dtos\\shapecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\dtos\\shapecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\models\\dtos\\drawingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\dtos\\drawingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\models\\dtos\\drawingcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\dtos\\drawingcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\models\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\models\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\models\\dtos\\updatechallengedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\dtos\\updatechallengedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|c:\\users\\me\\desktop\\beli - progromming\\angular\\inksprire\\server-side\\server-side\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8787996-59A1-442E-9494-017BF69D5548}|server-side\\server-side.csproj|solutionrelative:server-side\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,15 +110,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "UpdateChallengeDto.cs",
-              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Models\\DTOs\\UpdateChallengeDto.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\UpdateChallengeDto.cs",
               "RelativeDocumentMoniker": "server-side\\Models\\DTOs\\UpdateChallengeDto.cs",
-              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Models\\DTOs\\UpdateChallengeDto.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\UpdateChallengeDto.cs",
               "RelativeToolTip": "server-side\\Models\\DTOs\\UpdateChallengeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,119 +127,245 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AnalyticsController.cs",
-              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Controllers\\AnalyticsController.cs",
-              "RelativeDocumentMoniker": "server-side\\Controllers\\AnalyticsController.cs",
-              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Controllers\\AnalyticsController.cs",
-              "RelativeToolTip": "server-side\\Controllers\\AnalyticsController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAiwFYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T12:49:35.065Z"
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "server-side\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Properties\\launchSettings.json",
+              "RelativeToolTip": "server-side\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T16:48:43.911Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Program.cs",
-              "RelativeDocumentMoniker": "server-side\\Program.cs",
-              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Program.cs",
-              "RelativeToolTip": "server-side\\Program.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAYwGIAAAAVAAAAAAAAAA==",
+              "Title": "20250727012230_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Migrations\\20250727012230_InitialCreate.cs",
+              "RelativeDocumentMoniker": "server-side\\Migrations\\20250727012230_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Migrations\\20250727012230_InitialCreate.cs",
+              "RelativeToolTip": "server-side\\Migrations\\20250727012230_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T12:28:22.289Z"
+              "WhenOpened": "2025-12-23T16:15:49.439Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DrawingCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Models\\DTOs\\DrawingCreateDto.cs",
-              "RelativeDocumentMoniker": "server-side\\Models\\DTOs\\DrawingCreateDto.cs",
-              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Models\\DTOs\\DrawingCreateDto.cs",
-              "RelativeToolTip": "server-side\\Models\\DTOs\\DrawingCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T12:12:06.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Models\\Shape.cs",
-              "RelativeDocumentMoniker": "server-side\\Models\\Shape.cs",
-              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Models\\Shape.cs",
-              "RelativeToolTip": "server-side\\Models\\Shape.cs",
+              "DocumentIndex": 9,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "server-side\\Models\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "server-side\\Models\\DTOs\\UserLoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T12:12:02.095Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Drawing.cs",
-              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Models\\Drawing.cs",
-              "RelativeDocumentMoniker": "server-side\\Models\\Drawing.cs",
-              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Models\\Drawing.cs",
-              "RelativeToolTip": "server-side\\Models\\Drawing.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T12:10:19.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DrawingDto.cs",
-              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Models\\DTOs\\DrawingDto.cs",
-              "RelativeDocumentMoniker": "server-side\\Models\\DTOs\\DrawingDto.cs",
-              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Models\\DTOs\\DrawingDto.cs",
-              "RelativeToolTip": "server-side\\Models\\DTOs\\DrawingDto.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T12:05:34.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserRegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Models\\DTOs\\UserRegisterDto.cs",
-              "RelativeDocumentMoniker": "server-side\\Models\\DTOs\\UserRegisterDto.cs",
-              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Models\\DTOs\\UserRegisterDto.cs",
-              "RelativeToolTip": "server-side\\Models\\DTOs\\UserRegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T12:00:31.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Challenge.cs",
-              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Models\\Challenge.cs",
-              "RelativeDocumentMoniker": "server-side\\Models\\Challenge.cs",
-              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Models\\Challenge.cs",
-              "RelativeToolTip": "server-side\\Models\\Challenge.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T12:00:31.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "server-side\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Services\\UserService.cs",
-              "RelativeToolTip": "server-side\\Services\\UserService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T11:46:27.817Z"
+              "WhenOpened": "2025-12-23T16:15:41.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "TopicDto.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\TopicDto.cs",
+              "RelativeDocumentMoniker": "server-side\\Models\\DTOs\\TopicDto.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\TopicDto.cs",
+              "RelativeToolTip": "server-side\\Models\\DTOs\\TopicDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:15:40.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TopicCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\TopicCreateDto.cs",
+              "RelativeDocumentMoniker": "server-side\\Models\\DTOs\\TopicCreateDto.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\TopicCreateDto.cs",
+              "RelativeToolTip": "server-side\\Models\\DTOs\\TopicCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:15:39.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShapeDto.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\ShapeDto.cs",
+              "RelativeDocumentMoniker": "server-side\\Models\\DTOs\\ShapeDto.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\ShapeDto.cs",
+              "RelativeToolTip": "server-side\\Models\\DTOs\\ShapeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:15:37.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShapeCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\ShapeCreateDto.cs",
+              "RelativeDocumentMoniker": "server-side\\Models\\DTOs\\ShapeCreateDto.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\ShapeCreateDto.cs",
+              "RelativeToolTip": "server-side\\Models\\DTOs\\ShapeCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:15:36.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\User.cs",
+              "RelativeDocumentMoniker": "server-side\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\User.cs",
+              "RelativeToolTip": "server-side\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:15:29.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "server-side\\Models\\Topic.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\Topic.cs",
+              "RelativeToolTip": "server-side\\Models\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:15:27.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnalyticsController.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Controllers\\AnalyticsController.cs",
+              "RelativeDocumentMoniker": "server-side\\Controllers\\AnalyticsController.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Controllers\\AnalyticsController.cs",
+              "RelativeToolTip": "server-side\\Controllers\\AnalyticsController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:49:35.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Program.cs",
+              "RelativeDocumentMoniker": "server-side\\Program.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Program.cs",
+              "RelativeToolTip": "server-side\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:28:22.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DrawingCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\DrawingCreateDto.cs",
+              "RelativeDocumentMoniker": "server-side\\Models\\DTOs\\DrawingCreateDto.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\DrawingCreateDto.cs",
+              "RelativeToolTip": "server-side\\Models\\DTOs\\DrawingCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:12:06.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\Shape.cs",
+              "RelativeDocumentMoniker": "server-side\\Models\\Shape.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\Shape.cs",
+              "RelativeToolTip": "server-side\\Models\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:12:02.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\Drawing.cs",
+              "RelativeDocumentMoniker": "server-side\\Models\\Drawing.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\Drawing.cs",
+              "RelativeToolTip": "server-side\\Models\\Drawing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:10:19.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DrawingDto.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\DrawingDto.cs",
+              "RelativeDocumentMoniker": "server-side\\Models\\DTOs\\DrawingDto.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\DrawingDto.cs",
+              "RelativeToolTip": "server-side\\Models\\DTOs\\DrawingDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA8wAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:05:34.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "server-side\\Models\\DTOs\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "server-side\\Models\\DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:00:31.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Challenge.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\Challenge.cs",
+              "RelativeDocumentMoniker": "server-side\\Models\\Challenge.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Models\\Challenge.cs",
+              "RelativeToolTip": "server-side\\Models\\Challenge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:00:31.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "server-side\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Services\\UserService.cs",
+              "RelativeToolTip": "server-side\\Services\\UserService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:46:27.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\appsettings.json",
               "RelativeDocumentMoniker": "server-side\\appsettings.json",
-              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\appsettings.json",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\appsettings.json",
               "RelativeToolTip": "server-side\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -211,35 +373,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ShapeController.cs",
-              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Controllers\\ShapeController.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Controllers\\ShapeController.cs",
               "RelativeDocumentMoniker": "server-side\\Controllers\\ShapeController.cs",
-              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Controllers\\ShapeController.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Controllers\\ShapeController.cs",
               "RelativeToolTip": "server-side\\Controllers\\ShapeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T01:53:54.302Z"
+              "WhenOpened": "2025-07-27T01:53:54.302Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TopicController.cs",
-              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Controllers\\TopicController.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Controllers\\TopicController.cs",
               "RelativeDocumentMoniker": "server-side\\Controllers\\TopicController.cs",
-              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Controllers\\TopicController.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Controllers\\TopicController.cs",
               "RelativeToolTip": "server-side\\Controllers\\TopicController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T01:53:20.757Z"
+              "WhenOpened": "2025-07-27T01:53:20.757Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DrawingsController.cs",
-              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Controllers\\DrawingsController.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Controllers\\DrawingsController.cs",
               "RelativeDocumentMoniker": "server-side\\Controllers\\DrawingsController.cs",
-              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Controllers\\DrawingsController.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Controllers\\DrawingsController.cs",
               "RelativeToolTip": "server-side\\Controllers\\DrawingsController.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAmwFAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,27 +412,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ChallengesController.cs",
-              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Controllers\\ChallengesController.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Controllers\\ChallengesController.cs",
               "RelativeDocumentMoniker": "server-side\\Controllers\\ChallengesController.cs",
-              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Controllers\\ChallengesController.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Controllers\\ChallengesController.cs",
               "RelativeToolTip": "server-side\\Controllers\\ChallengesController.cs",
               "ViewState": "AgIAAGMAAAAAAAAAAAAQwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T01:47:00.474Z"
+              "WhenOpened": "2025-07-27T01:47:00.474Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "server-side\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\Inksprire\\server-side\\server-side\\Controllers\\AuthController.cs",
               "RelativeToolTip": "server-side\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAkwDcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T00:12:21.636Z"
+              "WhenOpened": "2025-07-27T00:12:21.636Z",
+              "EditorCaption": ""
             }
           ]
         }

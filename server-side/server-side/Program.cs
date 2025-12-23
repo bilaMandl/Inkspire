@@ -2,22 +2,19 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
-using Microsoft.OpenApi.Models; // נדרש ל-Swagger
+using Microsoft.OpenApi.Models; 
 using server_side.Data;
 using server_side.Services;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add DbContext
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseMySql(builder.Configuration.GetConnectionString("connection"),
     ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("connection"))));
 
-// Add Controllers
 builder.Services.AddControllers();
 
-// Add Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(options =>
 {
@@ -49,7 +46,6 @@ builder.Services.AddSwaggerGen(options =>
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddScoped<UserService>();
 
-// JWT Setup
 var jwtKey = builder.Configuration["JwtKey"] ?? "YourSuperSecretKeyHere";
 
 builder.Services.AddAuthentication(options =>
@@ -86,7 +82,6 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-// Enable Swagger middleware
 if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
 {
     app.UseSwagger();

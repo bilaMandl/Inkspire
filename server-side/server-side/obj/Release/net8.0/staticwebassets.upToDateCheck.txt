@@ -15,5 +15,6 @@ wwwroot\drawings\drawing_27_638892868455159487.png
 wwwroot\drawings\drawing_29_638892923896028081.png
 wwwroot\drawings\drawing_30_638892923994635403.png
 wwwroot\drawings\drawing_31_638892947652351143.png
-wwwroot\drawings\drawing_32_638892953948940645.png
 wwwroot\drawings\drawing_33_638892961928366030.png
+wwwroot\drawings\drawing_34_638893093158685453.png
+wwwroot\drawings\drawing_35_638893093611659846.png
