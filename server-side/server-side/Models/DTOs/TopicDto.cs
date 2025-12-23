@@ -1,0 +1,8 @@
+﻿namespace server_side.Models.DTOs
+{
+    public class TopicDto
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+    }
+}

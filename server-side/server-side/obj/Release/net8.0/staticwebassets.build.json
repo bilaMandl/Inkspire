@@ -1,0 +1,1979 @@
+{
+  "Version": 1,
+  "Hash": "fbL9oZNr1E21bsSNhh7j+KNUF9B+58RgKkYKNfBJTZA=",
+  "Source": "server-side",
+  "BasePath": "_content/server-side",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "server-side\\wwwroot",
+      "Source": "server-side",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_13_638892646659670134.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_13_638892646659670134#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ta5tp1iyz7",
+      "Integrity": "Fb3CcEwhWj9whQSJOZgLtnhrfpy0fvJ3h+YmqpPbKzQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_13_638892646659670134.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_14_638892646694637108.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_14_638892646694637108#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ta5tp1iyz7",
+      "Integrity": "Fb3CcEwhWj9whQSJOZgLtnhrfpy0fvJ3h+YmqpPbKzQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_14_638892646694637108.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_15_638892646842535931.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_15_638892646842535931#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8cdkl7o6yd",
+      "Integrity": "eM5Hv7u7P63Npl6xu7h3/TzzFglkxm7t+T1vV0XJLgc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_15_638892646842535931.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_16_638892646916520970.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_16_638892646916520970#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8cdkl7o6yd",
+      "Integrity": "eM5Hv7u7P63Npl6xu7h3/TzzFglkxm7t+T1vV0XJLgc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_16_638892646916520970.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_17_638892648447859377.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_17_638892648447859377#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lnxoytih00",
+      "Integrity": "n+lwDBS1rdGlfevKUXUXtA5zrTBhZ6wXxk0SiujYsxM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_17_638892648447859377.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_18_638892709134522462.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_18_638892709134522462#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7fkh3yrqsr",
+      "Integrity": "o1yUj3jXwuIjrDw0UEtcFkUJQtrhSp5/xUDIsl9oOxk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_18_638892709134522462.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_19_638892709559281108.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_19_638892709559281108#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c7g2l947uy",
+      "Integrity": "iLeBttCRfqwY3L+ZY4Sxh7Yg0B5zIzSD47aWm2TIqFo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_19_638892709559281108.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_20_638892710217423942.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_20_638892710217423942#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xomezhfjmc",
+      "Integrity": "YQGHmfG9/0NiPHkpEp2cG8KvyRzJCTiPxdPSwKUnV7c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_20_638892710217423942.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_21_638892710423234930.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_21_638892710423234930#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69ir3cjoqo",
+      "Integrity": "1qfBnhwdhfTIJFhENE95LAkIMLULPpQQA3NCByuwh98=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_21_638892710423234930.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_22_638892713704358838.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_22_638892713704358838#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "29bowum24a",
+      "Integrity": "Cnnn71A+mGeKkqOvV6c41RDptwJxLmgwnIHO72ET3VU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_22_638892713704358838.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_23_638892714809836785.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_23_638892714809836785#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0nkcsey1b4",
+      "Integrity": "fOfU03NLGdNHy4lenLgANVmEAkbzge8DZNDnygvVJ60=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_23_638892714809836785.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_25_638892841883245728.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_25_638892841883245728#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ixdngi4wab",
+      "Integrity": "Rn7kn4efEiR3n5Yq3+d18SQvmKHeYlD5zPDMZf3q4UM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_25_638892841883245728.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_26_638892842930707498.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_26_638892842930707498#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z75dgjv4b1",
+      "Integrity": "r4coAeJ0lpQoUKViTnQXna5WKx/+n93nNWjf0xaiWEY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_26_638892842930707498.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_27_638892868455159487.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_27_638892868455159487#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l84ydd6xhs",
+      "Integrity": "C5W+BJSPbzLazYOhNdpYwu9HtKTilq8vz0Q44Dsh854=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_27_638892868455159487.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_29_638892923896028081.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_29_638892923896028081#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o9pu6utpnd",
+      "Integrity": "lBaN669MllyZsafcpPVY+0wRomDfJdpmbqdAYL9s/ug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_29_638892923896028081.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_30_638892923994635403.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_30_638892923994635403#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o9pu6utpnd",
+      "Integrity": "lBaN669MllyZsafcpPVY+0wRomDfJdpmbqdAYL9s/ug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_30_638892923994635403.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_31_638892947652351143.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_31_638892947652351143#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n5640udlcr",
+      "Integrity": "1b+WJU3SlqOSCHaXRS+3RsHyP7G1p0oTovI2wuSmt3E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_31_638892947652351143.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_32_638892953948940645.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_32_638892953948940645#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5cbcswabf2",
+      "Integrity": "m7/6zoPnDLLr64Co6AGyxOolEQcnlUXgFYJ45pToogU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_32_638892953948940645.png"
+    },
+    {
+      "Identity": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_33_638892961928366030.png",
+      "SourceId": "server-side",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\",
+      "BasePath": "_content/server-side",
+      "RelativePath": "drawings/drawing_33_638892961928366030#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4dh1e986yh",
+      "Integrity": "2F+kyUN2UsKWqUWwSajZlO51q0KEvLpWU6RJbc0+gP0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drawings\\drawing_33_638892961928366030.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "drawings/drawing_13_638892646659670134.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_13_638892646659670134.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11209"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fb3CcEwhWj9whQSJOZgLtnhrfpy0fvJ3h+YmqpPbKzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 01:57:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fb3CcEwhWj9whQSJOZgLtnhrfpy0fvJ3h+YmqpPbKzQ="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_13_638892646659670134.ta5tp1iyz7.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_13_638892646659670134.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11209"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fb3CcEwhWj9whQSJOZgLtnhrfpy0fvJ3h+YmqpPbKzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 01:57:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ta5tp1iyz7"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_13_638892646659670134.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fb3CcEwhWj9whQSJOZgLtnhrfpy0fvJ3h+YmqpPbKzQ="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_14_638892646694637108.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_14_638892646694637108.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11209"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fb3CcEwhWj9whQSJOZgLtnhrfpy0fvJ3h+YmqpPbKzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 01:57:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fb3CcEwhWj9whQSJOZgLtnhrfpy0fvJ3h+YmqpPbKzQ="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_14_638892646694637108.ta5tp1iyz7.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_14_638892646694637108.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11209"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fb3CcEwhWj9whQSJOZgLtnhrfpy0fvJ3h+YmqpPbKzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 01:57:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ta5tp1iyz7"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_14_638892646694637108.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fb3CcEwhWj9whQSJOZgLtnhrfpy0fvJ3h+YmqpPbKzQ="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_15_638892646842535931.8cdkl7o6yd.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_15_638892646842535931.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eM5Hv7u7P63Npl6xu7h3/TzzFglkxm7t+T1vV0XJLgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 01:58:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8cdkl7o6yd"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_15_638892646842535931.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eM5Hv7u7P63Npl6xu7h3/TzzFglkxm7t+T1vV0XJLgc="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_15_638892646842535931.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_15_638892646842535931.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eM5Hv7u7P63Npl6xu7h3/TzzFglkxm7t+T1vV0XJLgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 01:58:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eM5Hv7u7P63Npl6xu7h3/TzzFglkxm7t+T1vV0XJLgc="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_16_638892646916520970.8cdkl7o6yd.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_16_638892646916520970.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eM5Hv7u7P63Npl6xu7h3/TzzFglkxm7t+T1vV0XJLgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 01:58:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8cdkl7o6yd"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_16_638892646916520970.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eM5Hv7u7P63Npl6xu7h3/TzzFglkxm7t+T1vV0XJLgc="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_16_638892646916520970.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_16_638892646916520970.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eM5Hv7u7P63Npl6xu7h3/TzzFglkxm7t+T1vV0XJLgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 01:58:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eM5Hv7u7P63Npl6xu7h3/TzzFglkxm7t+T1vV0XJLgc="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_17_638892648447859377.lnxoytih00.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_17_638892648447859377.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n+lwDBS1rdGlfevKUXUXtA5zrTBhZ6wXxk0SiujYsxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 02:00:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lnxoytih00"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_17_638892648447859377.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n+lwDBS1rdGlfevKUXUXtA5zrTBhZ6wXxk0SiujYsxM="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_17_638892648447859377.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_17_638892648447859377.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n+lwDBS1rdGlfevKUXUXtA5zrTBhZ6wXxk0SiujYsxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 02:00:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n+lwDBS1rdGlfevKUXUXtA5zrTBhZ6wXxk0SiujYsxM="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_18_638892709134522462.7fkh3yrqsr.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_18_638892709134522462.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1yUj3jXwuIjrDw0UEtcFkUJQtrhSp5/xUDIsl9oOxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 03:41:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7fkh3yrqsr"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_18_638892709134522462.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o1yUj3jXwuIjrDw0UEtcFkUJQtrhSp5/xUDIsl9oOxk="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_18_638892709134522462.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_18_638892709134522462.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1yUj3jXwuIjrDw0UEtcFkUJQtrhSp5/xUDIsl9oOxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 03:41:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o1yUj3jXwuIjrDw0UEtcFkUJQtrhSp5/xUDIsl9oOxk="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_19_638892709559281108.c7g2l947uy.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_19_638892709559281108.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iLeBttCRfqwY3L+ZY4Sxh7Yg0B5zIzSD47aWm2TIqFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 03:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c7g2l947uy"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_19_638892709559281108.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iLeBttCRfqwY3L+ZY4Sxh7Yg0B5zIzSD47aWm2TIqFo="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_19_638892709559281108.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_19_638892709559281108.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iLeBttCRfqwY3L+ZY4Sxh7Yg0B5zIzSD47aWm2TIqFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 03:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iLeBttCRfqwY3L+ZY4Sxh7Yg0B5zIzSD47aWm2TIqFo="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_20_638892710217423942.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_20_638892710217423942.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YQGHmfG9/0NiPHkpEp2cG8KvyRzJCTiPxdPSwKUnV7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 03:43:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YQGHmfG9/0NiPHkpEp2cG8KvyRzJCTiPxdPSwKUnV7c="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_20_638892710217423942.xomezhfjmc.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_20_638892710217423942.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YQGHmfG9/0NiPHkpEp2cG8KvyRzJCTiPxdPSwKUnV7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 03:43:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xomezhfjmc"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_20_638892710217423942.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YQGHmfG9/0NiPHkpEp2cG8KvyRzJCTiPxdPSwKUnV7c="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_21_638892710423234930.69ir3cjoqo.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_21_638892710423234930.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7847"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qfBnhwdhfTIJFhENE95LAkIMLULPpQQA3NCByuwh98=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 03:44:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69ir3cjoqo"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_21_638892710423234930.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qfBnhwdhfTIJFhENE95LAkIMLULPpQQA3NCByuwh98="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_21_638892710423234930.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_21_638892710423234930.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7847"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qfBnhwdhfTIJFhENE95LAkIMLULPpQQA3NCByuwh98=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 03:44:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qfBnhwdhfTIJFhENE95LAkIMLULPpQQA3NCByuwh98="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_22_638892713704358838.29bowum24a.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_22_638892713704358838.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cnnn71A+mGeKkqOvV6c41RDptwJxLmgwnIHO72ET3VU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 03:49:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "29bowum24a"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_22_638892713704358838.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cnnn71A+mGeKkqOvV6c41RDptwJxLmgwnIHO72ET3VU="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_22_638892713704358838.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_22_638892713704358838.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cnnn71A+mGeKkqOvV6c41RDptwJxLmgwnIHO72ET3VU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 03:49:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cnnn71A+mGeKkqOvV6c41RDptwJxLmgwnIHO72ET3VU="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_23_638892714809836785.0nkcsey1b4.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_23_638892714809836785.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fOfU03NLGdNHy4lenLgANVmEAkbzge8DZNDnygvVJ60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 03:51:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0nkcsey1b4"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_23_638892714809836785.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fOfU03NLGdNHy4lenLgANVmEAkbzge8DZNDnygvVJ60="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_23_638892714809836785.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_23_638892714809836785.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fOfU03NLGdNHy4lenLgANVmEAkbzge8DZNDnygvVJ60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 03:51:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fOfU03NLGdNHy4lenLgANVmEAkbzge8DZNDnygvVJ60="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_25_638892841883245728.ixdngi4wab.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_25_638892841883245728.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rn7kn4efEiR3n5Yq3+d18SQvmKHeYlD5zPDMZf3q4UM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 07:23:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ixdngi4wab"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_25_638892841883245728.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rn7kn4efEiR3n5Yq3+d18SQvmKHeYlD5zPDMZf3q4UM="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_25_638892841883245728.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_25_638892841883245728.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rn7kn4efEiR3n5Yq3+d18SQvmKHeYlD5zPDMZf3q4UM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 07:23:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rn7kn4efEiR3n5Yq3+d18SQvmKHeYlD5zPDMZf3q4UM="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_26_638892842930707498.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_26_638892842930707498.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r4coAeJ0lpQoUKViTnQXna5WKx/+n93nNWjf0xaiWEY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 07:24:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r4coAeJ0lpQoUKViTnQXna5WKx/+n93nNWjf0xaiWEY="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_26_638892842930707498.z75dgjv4b1.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_26_638892842930707498.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r4coAeJ0lpQoUKViTnQXna5WKx/+n93nNWjf0xaiWEY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 07:24:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z75dgjv4b1"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_26_638892842930707498.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r4coAeJ0lpQoUKViTnQXna5WKx/+n93nNWjf0xaiWEY="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_27_638892868455159487.l84ydd6xhs.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_27_638892868455159487.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C5W+BJSPbzLazYOhNdpYwu9HtKTilq8vz0Q44Dsh854=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 08:07:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l84ydd6xhs"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_27_638892868455159487.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C5W+BJSPbzLazYOhNdpYwu9HtKTilq8vz0Q44Dsh854="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_27_638892868455159487.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_27_638892868455159487.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C5W+BJSPbzLazYOhNdpYwu9HtKTilq8vz0Q44Dsh854=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 08:07:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C5W+BJSPbzLazYOhNdpYwu9HtKTilq8vz0Q44Dsh854="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_29_638892923896028081.o9pu6utpnd.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_29_638892923896028081.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lBaN669MllyZsafcpPVY+0wRomDfJdpmbqdAYL9s/ug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 09:39:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o9pu6utpnd"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_29_638892923896028081.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lBaN669MllyZsafcpPVY+0wRomDfJdpmbqdAYL9s/ug="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_29_638892923896028081.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_29_638892923896028081.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lBaN669MllyZsafcpPVY+0wRomDfJdpmbqdAYL9s/ug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 09:39:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lBaN669MllyZsafcpPVY+0wRomDfJdpmbqdAYL9s/ug="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_30_638892923994635403.o9pu6utpnd.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_30_638892923994635403.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lBaN669MllyZsafcpPVY+0wRomDfJdpmbqdAYL9s/ug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 09:39:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o9pu6utpnd"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_30_638892923994635403.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lBaN669MllyZsafcpPVY+0wRomDfJdpmbqdAYL9s/ug="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_30_638892923994635403.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_30_638892923994635403.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lBaN669MllyZsafcpPVY+0wRomDfJdpmbqdAYL9s/ug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 09:39:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lBaN669MllyZsafcpPVY+0wRomDfJdpmbqdAYL9s/ug="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_31_638892947652351143.n5640udlcr.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_31_638892947652351143.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1b+WJU3SlqOSCHaXRS+3RsHyP7G1p0oTovI2wuSmt3E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 10:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n5640udlcr"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_31_638892947652351143.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1b+WJU3SlqOSCHaXRS+3RsHyP7G1p0oTovI2wuSmt3E="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_31_638892947652351143.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_31_638892947652351143.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1b+WJU3SlqOSCHaXRS+3RsHyP7G1p0oTovI2wuSmt3E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 10:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1b+WJU3SlqOSCHaXRS+3RsHyP7G1p0oTovI2wuSmt3E="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_32_638892953948940645.5cbcswabf2.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_32_638892953948940645.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m7/6zoPnDLLr64Co6AGyxOolEQcnlUXgFYJ45pToogU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 10:29:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5cbcswabf2"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_32_638892953948940645.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m7/6zoPnDLLr64Co6AGyxOolEQcnlUXgFYJ45pToogU="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_32_638892953948940645.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_32_638892953948940645.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m7/6zoPnDLLr64Co6AGyxOolEQcnlUXgFYJ45pToogU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 10:29:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m7/6zoPnDLLr64Co6AGyxOolEQcnlUXgFYJ45pToogU="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_33_638892961928366030.4dh1e986yh.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_33_638892961928366030.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2F+kyUN2UsKWqUWwSajZlO51q0KEvLpWU6RJbc0+gP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 10:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4dh1e986yh"
+        },
+        {
+          "Name": "label",
+          "Value": "drawings/drawing_33_638892961928366030.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2F+kyUN2UsKWqUWwSajZlO51q0KEvLpWU6RJbc0+gP0="
+        }
+      ]
+    },
+    {
+      "Route": "drawings/drawing_33_638892961928366030.png",
+      "AssetFile": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_33_638892961928366030.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2F+kyUN2UsKWqUWwSajZlO51q0KEvLpWU6RJbc0+gP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 10:43:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2F+kyUN2UsKWqUWwSajZlO51q0KEvLpWU6RJbc0+gP0="
+        }
+      ]
+    }
+  ]
+}

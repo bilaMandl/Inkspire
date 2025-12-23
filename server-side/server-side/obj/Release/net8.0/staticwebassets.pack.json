@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_13_638892646659670134.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_13_638892646659670134.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_14_638892646694637108.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_14_638892646694637108.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_15_638892646842535931.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_15_638892646842535931.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_16_638892646916520970.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_16_638892646916520970.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_17_638892648447859377.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_17_638892648447859377.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_18_638892709134522462.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_18_638892709134522462.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_19_638892709559281108.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_19_638892709559281108.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_20_638892710217423942.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_20_638892710217423942.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_21_638892710423234930.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_21_638892710423234930.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_22_638892713704358838.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_22_638892713704358838.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_23_638892714809836785.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_23_638892714809836785.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_25_638892841883245728.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_25_638892841883245728.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_26_638892842930707498.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_26_638892842930707498.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_27_638892868455159487.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_27_638892868455159487.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_29_638892923896028081.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_29_638892923896028081.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_30_638892923994635403.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_30_638892923994635403.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_31_638892947652351143.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_31_638892947652351143.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_32_638892953948940645.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_32_638892953948940645.png"
+    },
+    {
+      "Id": "C:\\Users\\ME\\Desktop\\beli - progromming\\Angular\\project\\server-side\\server-side\\wwwroot\\drawings\\drawing_33_638892961928366030.png",
+      "PackagePath": "staticwebassets\\drawings\\drawing_33_638892961928366030.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.server-side.props",
+      "PackagePath": "build\\server-side.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.server-side.props",
+      "PackagePath": "buildMultiTargeting\\server-side.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.server-side.props",
+      "PackagePath": "buildTransitive\\server-side.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.server-side.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.server-side.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
